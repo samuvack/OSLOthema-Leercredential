@@ -1,20 +1,29 @@
 {
-    "naam": "",
-    "rapport" : "",
-    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "",
-    "beschrijving" : "",
-    "specificatiedocument": [],
-    "documentatie": [],
-    "charter": [],
-    "verslagen": [],
-    "presentaties": [],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
-    "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
-  }
+  "naam": "Vocabularium en Applicatieprofiel Leercredential",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+  "publicatiedatum": "2022-12-20",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Vocabularium & applicatieprofiel",
+  "beschrijving": "leercredential-description.md",
+  "specificatiedocument": [
+    {
+      "naam": "Leercredential Applicatieprofiel",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/leercredential"
+    },
+    {
+      "naam": "Leercredential Vocabularium",
+      "waarde": "https://data.vlaanderen.be/ns/leercredential"
+    }
+  ],
+  "documentatie": [],
+  "charter": [],
+  "verslagen": [],
+  "presentaties": [],
+  "functioneel_toepassingsgebied": "",
+  "organisatorisch_werkingsgebied": "",
+  "datum_van_aanmelding": "",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}
