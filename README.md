@@ -1,4 +1,4 @@
-# OSLOthema-mijnThema
+# OSLOthema-Leercredential
 
 **_Editors:_**
 - first read [deze richtlijnen](https://github.com/Informatievlaanderen/OSLO-toolchain/blob/master/doc-user/README.md) .
@@ -18,4 +18,4 @@ The organisation and meaning of the git branches are documented in this table.
 
 | Branch | Purpose | Active (y/n) |
 | ------ | --------- | ---------------- | 
-|  |  |  |
+| main | lineaire ontwikkeling | y |
