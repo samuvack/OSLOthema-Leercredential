@@ -1,5 +1,5 @@
 2023-02-23
   - Eerste inhoud, op basis van voortraject, met volgende aanpassingen t.o.v. het voortraject:
     - hernoemd: UML package naar OSLO-Leercredential
-	- toegevoegd: label "Voorstelling" aan https://data.vlaanderen.be/ns/leercredential#Voorstelling
-	- toegevoegd: label "Organisatie Classificatie" aan skos:Concept OrganisatieClassificatie
+    - toegevoegd: label "Voorstelling" aan https://data.vlaanderen.be/ns/leercredential#Voorstelling
+    - toegevoegd: label "Organisatie Classificatie" aan skos:Concept OrganisatieClassificatie
